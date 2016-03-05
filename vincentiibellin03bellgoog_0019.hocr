@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vincentiibellin03bellgoog_0019.png"; bbox 0 0 4554 6345; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 3198 683 3531 838">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 3198 683 3531 838">
+     <span class='ocr_line' id='line_1_1' title="bbox 3198 683 3531 838; baseline 0.03 -10"><span class='ocrx_word' id='word_1_1' title='bbox 3198 683 3531 838; x_wconf 59' lang='lat'>337</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1545 1432 2313 1554">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1545 1432 2313 1554">
+     <span class='ocr_line' id='line_1_2' title="bbox 1545 1432 2313 1554; baseline 0.005 -3"><span class='ocrx_word' id='word_1_2' title='bbox 1545 1432 1937 1552; x_wconf 68' lang='lat' dir='ltr'>ANcc</span> <span class='ocrx_word' id='word_1_3' title='bbox 1955 1438 2313 1554; x_wconf 73' lang='lat' dir='ltr'>oNAE</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vincentiibellin03bellgoog_0131.png"; bbox 0 0 4554 6345; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1059 570 3448 1023">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1059 520 3448 1025">
+     <span class='ocr_line' id='line_1_1' title="bbox 1109 570 3448 784; baseline 0.018 -79"><span class='ocrx_word' id='word_1_1' title='bbox 1109 594 1110 598; x_wconf 10' lang='grc' dir='ltr'>ψ</span> <span class='ocrx_word' id='word_1_2' title='bbox 1424 705 1432 712; x_wconf 84' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1550 570 2544 725; x_wconf 61' lang='grc' dir='ltr'>ΤΑΒ».ΧἫΙ</span> <span class='ocrx_word' id='word_1_4' title='bbox 3094 595 3448 784; x_wconf 57' lang='lat'>13339</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1059 780 3418 1023; baseline 0.017 -112"><span class='ocrx_word' id='word_1_5' title='bbox 1059 903 1062 911; x_wconf 79' lang='grc'>,</span> <span class='ocrx_word' id='word_1_6' title='bbox 1209 784 1794 942; x_wconf 64' lang='lat' dir='ltr'>REGI}</span> <span class='ocrx_word' id='word_1_7' title='bbox 1889 780 2615 1023; x_wconf 66' lang='lat' dir='ltr'><strong>LEPEDJ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 3413 805 3418 812; x_wconf 79' lang='grc'><em>’</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1274 3752 2699 3896">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1274 3752 2699 3896">
+     <span class='ocr_line' id='line_1_3' title="bbox 1274 3752 2699 3896; baseline 0.009 -22"><span class='ocrx_word' id='word_1_9' title='bbox 1274 3779 1277 3781; x_wconf 71' lang='grc'>’</span> <span class='ocrx_word' id='word_1_10' title='bbox 1387 3890 1396 3896; x_wconf 56' lang='grc'>,</span> <span class='ocrx_word' id='word_1_11' title='bbox 1451 3752 2496 3893; x_wconf 59' lang='grc' dir='ltr'>ΕΑΒΑΥΒΙᾹ</span> <span class='ocrx_word' id='word_1_12' title='bbox 2694 3869 2699 3887; x_wconf 83' lang='grc'>.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vincentiibellin03bellgoog_0091.png"; bbox 0 0 4554 6345; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1105 677 1237 767">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1105 677 1237 767">
+     <span class='ocr_line' id='line_1_1' title="bbox 1105 677 1211 754; baseline 0 -24"><span class='ocrx_word' id='word_1_1' title='bbox 1105 677 1211 754; x_wconf 58' lang='lat'>8⁰³¹·-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1135 742 1237 767; baseline 0 -4"><span class='ocrx_word' id='word_1_2' title='bbox 1135 742 1148 767; x_wconf 68' lang='grc' dir='ltr'>ἰ</span> <span class='ocrx_word' id='word_1_3' title='bbox 1219 749 1237 763; x_wconf 65' lang='grc' dir='ltr'>,ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1527 556 2509 1047">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1527 556 2509 1047">
+     <span class='ocr_line' id='line_1_3' title="bbox 1527 556 2443 794; baseline 0.015 -16"><span class='ocrx_word' id='word_1_4' title='bbox 1527 556 2085 778; x_wconf 60' lang='grc' dir='ltr'>ΤΑΒς</span> <span class='ocrx_word' id='word_1_5' title='bbox 2142 649 2443 794; x_wconf 70' lang='grc' dir='ltr'>κη</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1543 883 2509 1047; baseline 0.007 -34"><span class='ocrx_word' id='word_1_6' title='bbox 1543 883 2509 1047; x_wconf 69' lang='grc' dir='ltr'>ΜντιΝΑ-ῑ.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1899 3635 3525 4325">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1899 3635 3525 4325">
+     <span class='ocr_line' id='line_1_5' title="bbox 1899 3635 3525 4325; baseline 0 2020"><span class='ocrx_word' id='word_1_7' title='bbox 1899 3635 3525 4325; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
